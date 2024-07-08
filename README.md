@@ -3,7 +3,7 @@
 [CRM-1] Mod Repo for resolving/discovering mods published by [@StartsMercury].
 
 [CRM-1]: https://github.com/CRModders/CRM-1
-[@StartsMercury](https://github.com/StartsMercury)
+[@StartsMercury]: https://github.com/StartsMercury
 
 Hosts the following mods:
 
