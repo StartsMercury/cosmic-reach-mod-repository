@@ -7,6 +7,6 @@
 
 Hosts the following mods:
 
-- [Simply Cosmic Shading] v0.1.0
+- [Simply Cosmic Shading] v0.1.0 and v0.1.1
 
 [Simply Cosmic Shading]: https://github.com/StartsMercury/simply-cosmic-shading
