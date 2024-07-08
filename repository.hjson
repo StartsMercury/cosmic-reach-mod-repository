@@ -7,6 +7,19 @@
 
     mods: [
         {
+            id: io.github.startsmercury.simply-cosmic-shading
+            name: Simply Cosmic Shading
+            desc: Directional shade for Cosmic Reach.
+            authors: [
+                StartsMercury
+            ]
+            version: 0.1.2
+            gameVersion: "[0.1.39]"
+            url: https://github.com/StartsMercury/simply-cosmic-shading/releases/download/0.1.2%2Bcr0.1.39/simply-cosmic-shading-0.1.2+cr0.1.39.jar
+            deps: []
+            ext: {}
+        },
+        {
             id: io.github.startsmercury.cosmic-light-bleed-fix
             name: Cosmic Light Bleed Fix
             desc: Fix light passing through solid corners for Cosmic Reach.
