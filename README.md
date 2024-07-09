@@ -7,7 +7,7 @@
 
 Hosts the following mods:
 
- * [Corner Ambient Occlusion Fix] v0.1.0
+ * [Corner Ambient Occlusion Fix] v0.1.0 and v0.1.1
  * [Cosmic Light Bleed Fix] v0.1.0
  * [Simply Cosmic Shading] v0.1.0 &ndash; v0.1.2
 

@@ -7,6 +7,19 @@
 
     mods: [
         {
+            id: io.github.startsmercury.corner-ambient-occlusion-fix
+            name: Corner Ambient Occlusion Fix
+            desc: Fixes ambient occlusion when on surface corners.
+            authors: [
+                StartsMercury
+            ]
+            version: 0.1.1
+            gameVersion: "[0.1.39]"
+            url: https://github.com/StartsMercury/corner-ambient-occlusion-fix/releases/download/0.1.1%2Bcr0.1.39/corner-ambient-occlusion-fix-0.1.1+cr0.1.39.jar
+            deps: []
+            ext: {}
+        },
+        {
             id: io.github.startsmercury.simply-cosmic-shading
             name: Simply Cosmic Shading
             desc: Directional shade for Cosmic Reach.
