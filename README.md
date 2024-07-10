@@ -8,7 +8,7 @@
 Hosts the following mods:
 
  * [Corner Ambient Occlusion Fix] v0.1.0 and v0.1.1
- * [Cosmic Light Bleed Fix] v0.1.0
+ * [Cosmic Light Bleed Fix] v0.1.0 and v0.1.1
  * [Simply Cosmic Shading] v0.1.0 &ndash; v0.1.2
 
 [Corner Ambient Occlusion Fix]: https://github.com/StartsMercury/corner-ambient-occlusion-fix

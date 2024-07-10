@@ -7,6 +7,19 @@
 
     mods: [
         {
+            id: io.github.startsmercury.cosmic-light-bleed-fix
+            name: Cosmic Light Bleed Fix
+            desc: Fix light passing through solid corners for Cosmic Reach.
+            authors: [
+                StartsMercury
+            ]
+            version: 0.1.1
+            gameVersion: "[0.1.39]"
+            url: https://github.com/StartsMercury/cosmic-light-bleed-fix/releases/download/0.1.1%2Bcr0.1.39/cosmic-light-bleed-fix-0.1.1+cr0.1.39.jar
+            deps: []
+            ext: {}
+        },
+        {
             id: io.github.startsmercury.corner-ambient-occlusion-fix
             name: Corner Ambient Occlusion Fix
             desc: Fixes ambient occlusion when on surface corners.
