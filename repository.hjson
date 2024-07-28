@@ -40,7 +40,7 @@
                 StartsMercury
             ]
             version: 0.1.2
-            gameVersion: "[0.1.39,0.1.40]"
+            gameVersion: "[0.1.39,0.1.40,0.1.41,0.1.42,0.1.43]"
             url: https://github.com/StartsMercury/simply-cosmic-shading/releases/download/0.1.2%2Bcr0.1.39/simply-cosmic-shading-0.1.2+cr0.1.39.jar
             deps: []
             ext: {}
