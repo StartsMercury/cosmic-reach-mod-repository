@@ -14,7 +14,7 @@
                 StartsMercury
             ]
             version: 0.1.1
-            gameVersion: "[0.1.39, 0.1.40]"
+            gameVersion: "[0.1.39,0.1.40]"
             url: https://github.com/StartsMercury/cosmic-light-bleed-fix/releases/download/0.1.1%2Bcr0.1.39/cosmic-light-bleed-fix-0.1.1+cr0.1.39.jar
             deps: []
             ext: {}
@@ -27,7 +27,7 @@
                 StartsMercury
             ]
             version: 0.1.1
-            gameVersion: "[0.1.39, 0.1.40]"
+            gameVersion: "[0.1.39,0.1.40]"
             url: https://github.com/StartsMercury/corner-ambient-occlusion-fix/releases/download/0.1.1%2Bcr0.1.39/corner-ambient-occlusion-fix-0.1.1+cr0.1.39.jar
             deps: []
             ext: {}
@@ -40,7 +40,7 @@
                 StartsMercury
             ]
             version: 0.1.2
-            gameVersion: "[0.1.39, 0.1.40]"
+            gameVersion: "[0.1.39,0.1.40]"
             url: https://github.com/StartsMercury/simply-cosmic-shading/releases/download/0.1.2%2Bcr0.1.39/simply-cosmic-shading-0.1.2+cr0.1.39.jar
             deps: []
             ext: {}
