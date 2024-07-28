@@ -27,7 +27,7 @@
                 StartsMercury
             ]
             version: 0.1.1
-            gameVersion: "[0.1.39,0.1.40]"
+            gameVersion: "[0.1.39,0.1.40,0.1.41,0.1.42,0.1.43]"
             url: https://github.com/StartsMercury/corner-ambient-occlusion-fix/releases/download/0.1.1%2Bcr0.1.39/corner-ambient-occlusion-fix-0.1.1+cr0.1.39.jar
             deps: []
             ext: {}
