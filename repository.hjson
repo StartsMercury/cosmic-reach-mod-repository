@@ -7,6 +7,19 @@
 
     mods: [
         {
+            id: io.github.startsmercury.cosmic-player-deceleration
+            name: Cosmic Player Deceleration
+            desc: Stops slower. Adds some deceleration instead of almost immediately stopping for supported versions of Cosmic Reach.
+            authors: [
+                StartsMercury
+            ]
+            version: 0.1.0
+            gameVersion: "[0.1.43]"
+            url: https://github.com/StartsMercury/cosmic-player-deceleration/releases/download/0.1.0%2Bcr0.1.43/cosmic-player-deceleration-0.1.0+cr0.1.43.jar
+            deps: []
+            ext: {}
+        },
+        {
             id: io.github.startsmercury.cosmic-light-bleed-fix
             name: Cosmic Light Bleed Fix
             desc: Fix light passing through solid corners for Cosmic Reach.
