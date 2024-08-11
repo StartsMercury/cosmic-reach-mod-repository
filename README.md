@@ -10,7 +10,7 @@ Hosts the following mods:
  * [Corner Ambient Occlusion Fix] v0.1.0 &ndash; v0.1.2
  * [Cosmic Light Bleed Fix] v0.1.0 and v0.1.1
  * [Cosmic Player Deceleration] v0.1.0
- * [Simply Cosmic Shading] v0.1.0 &ndash; v0.1.2
+ * [Simply Cosmic Shading] v0.1.0 &ndash; v0.1.3
 
 [Corner Ambient Occlusion Fix]: https://github.com/StartsMercury/corner-ambient-occlusion-fix
 [Cosmic Light Bleed Fix]: https://github.com/StartsMercury/cosmic-light-bleed-fix
