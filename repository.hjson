@@ -7,6 +7,20 @@
 
     mods: [
         {
+            id: io.github.startsmercury.hgskys
+            name: HgSKys
+            desc: Hydrargyrum Skys (HgSkys) is a fork of UltraSkys
+            authors: [
+                0x251,
+                StartsMercury
+            ]
+            version: 0.1.7
+            gameVersion: "[0.1.50]"
+            url: https://github.com/StartsMercury/UltraSkys/releases/download/0.1.7%2Bcr0.1.50/hgskys-0.1.7+cr0.1.50.jar
+            deps: []
+            ext: {}
+        },
+        {
             id: io.github.startsmercury.simply-cosmic-shading
             name: Simply Cosmic Shading
             desc: Directional shade for Cosmic Reach.
