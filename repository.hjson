@@ -7,6 +7,32 @@
 
     mods: [
         {
+            id: io.github.startsmercury.simply-cosmic-shading
+            name: Simply Cosmic Shading
+            desc: Directional shade for Cosmic Reach.
+            authors: [
+                StartsMercury
+            ]
+            version: 0.1.5
+            gameVersion: "[0.2.1,0.2.2,0.2.3,0.2.4]"
+            url: https://github.com/StartsMercury/simply-cosmic-shading/releases/download/0.1.5%2Bcr0.2.1/simply-cosmic-shading-0.1.5+cr0.2.1.jar
+            deps: []
+            ext: {}
+        },
+        {
+            id: io.github.startsmercury.simply-cosmic-shading
+            name: Simply Cosmic Shading
+            desc: Directional shade for Cosmic Reach.
+            authors: [
+                StartsMercury
+            ]
+            version: 0.1.4
+            gameVersion: "[0.2.0]"
+            url: https://github.com/StartsMercury/simply-cosmic-shading/releases/download/0.1.4%2Bcr0.2.0/simply-cosmic-shading-0.1.4+cr0.2.0.jar
+            deps: []
+            ext: {}
+        },
+        {
             id: io.github.startsmercury.hgskys
             name: HgSKys
             desc: Hydrargyrum Skys (HgSkys) is a fork of UltraSkys
@@ -55,7 +81,7 @@
                 StartsMercury
             ]
             version: 0.1.0
-            gameVersion: "[0.1.43,0.1.44,0.1.45,0.1.46,0.1.47,0.1.48,0.1.49,0.1.50,0.2.0]"
+            gameVersion: "[0.1.43,0.1.44,0.1.45,0.1.46,0.1.47,0.1.48,0.1.49,0.1.50,0.2.0,0.2.1,0.2.2,0.2.3,0.2.4]"
             url: https://github.com/StartsMercury/cosmic-player-deceleration/releases/download/0.1.0%2Bcr0.1.43/cosmic-player-deceleration-0.1.0+cr0.1.43.jar
             deps: []
             ext: {}
@@ -68,7 +94,7 @@
                 StartsMercury
             ]
             version: 0.1.2
-            gameVersion: "[0.1.41,0.1.42,0.1.43,0.1.44,0.1.45,0.1.46,0.1.47,0.1.48,0.1.49,0.1.50,0.2.0]"
+            gameVersion: "[0.1.41,0.1.42,0.1.43,0.1.44,0.1.45,0.1.46,0.1.47,0.1.48,0.1.49,0.1.50,0.2.0,0.2.1,0.2.2,0.2.3,0.2.4]"
             url: https://github.com/StartsMercury/cosmic-light-bleed-fix/releases/download/0.1.2%2Bcr0.1.41/cosmic-light-bleed-fix-0.1.2+cr0.1.41.jar
             deps: []
             ext: {}
@@ -94,7 +120,7 @@
                 StartsMercury
             ]
             version: 0.1.1
-            gameVersion: "[0.1.39,0.1.40,0.1.41,0.1.42,0.1.43,0.1.44,0.1.45,0.1.46,0.1.47,0.1.48,0.1.49,0.1.50,0.2.0]"
+            gameVersion: "[0.1.39,0.1.40,0.1.41,0.1.42,0.1.43,0.1.44,0.1.45,0.1.46,0.1.47,0.1.48,0.1.49,0.1.50,0.2.0,0.2.1,0.2.2,0.2.3,0.2.4]"
             url: https://github.com/StartsMercury/corner-ambient-occlusion-fix/releases/download/0.1.1%2Bcr0.1.39/corner-ambient-occlusion-fix-0.1.1+cr0.1.39.jar
             deps: []
             ext: {}
